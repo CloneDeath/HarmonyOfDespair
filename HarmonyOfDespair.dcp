@@ -1,0 +1,32 @@
+{
+	"Name": "Harmony of Despair",
+	"Version": "0.1-alpha.1",
+	"UnitWidth": 16,
+	"UnitHeight": 16,
+	"Characters": [
+		"./Characters/soma_cruz.dcc",
+		"./Characters/alucard.dcc",
+		"./Characters/jonathan_morris.dcc",
+		"./Characters/julius_belmont.dcc",
+		"./Characters/shanoa.dcc",
+		"./Characters/charlotte_aulin.dcc",
+		"./Characters/yoko_belnades.dcc",
+		"./Characters/richter_belmont.dcc",
+		"./Characters/maria_renard.dcc",
+		"./Characters/simon_belmont.dcc",
+		"./Characters/getsu_fuma.dcc"
+	],
+	"Levels": [
+		"./Levels/Chapter1_Tower.dcl",
+		"./Levels/Chapter2_Village.dcl",
+		"./Levels/Chapter3_Hell.dcl",
+		"./Levels/Chapter4_Mansion.dcl",
+		"./Levels/Chapter5_Clocktower.dcl",
+		"./Levels/Chapter6_Castle.dcl",
+		"./Levels/Chapter7_Pyramid.dcl",
+		"./Levels/Chapter8_Caves.dcl",
+		"./Levels/Chapter9_CastleEntrance.dcl",
+		"./Levels/Chapter10_Castlevania.dcl",
+		"./Levels/Chapter11_Legend.dcl"
+	]
+}
