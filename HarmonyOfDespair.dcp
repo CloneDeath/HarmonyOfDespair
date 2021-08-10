@@ -1,8 +1,6 @@
 {
 	"Name": "Harmony of Despair",
 	"Version": "0.1-alpha.1",
-	"UnitWidth": 16,
-	"UnitHeight": 16,
 	"Characters": [
 		"./Characters/soma_cruz.dcc",
 		"./Characters/alucard.dcc",
