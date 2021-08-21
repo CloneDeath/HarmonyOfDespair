@@ -1,0 +1,20 @@
+{
+	"File": "SomaCruz.png",
+	"TransparentColor": {
+		"Red": 64,
+		"Green": 80,
+		"Blue": 64
+	},
+	"Sprites": [
+		{ "Name": "idle-1", "X": 6,   "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-2", "X": 30,  "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-3", "X": 54,  "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-4", "X": 78,  "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-5", "X": 102, "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-6", "X": 128, "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-7", "X": 152, "Y": 46, "Width": 24, "Height": 48 },
+		{ "Name": "idle-8", "X": 176, "Y": 46, "Width": 24, "Height": 48 },
+
+		{ "Name": "walk-1", "X": 1,   "Y": 153, "Width": 32, "Height": 43 }
+	]
+}

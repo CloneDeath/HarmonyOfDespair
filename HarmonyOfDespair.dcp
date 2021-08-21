@@ -2,7 +2,7 @@
 	"Name": "Harmony of Despair",
 	"Version": "0.1-alpha.1",
 	"Characters": [
-		"./Characters/soma_cruz.dcc",
+		"./Characters/SomaCruz/SomaCruz.dcc",
 		"./Characters/alucard.dcc",
 		"./Characters/jonathan_morris.dcc",
 		"./Characters/julius_belmont.dcc",
