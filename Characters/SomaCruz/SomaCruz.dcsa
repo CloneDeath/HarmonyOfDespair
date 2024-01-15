@@ -1,20 +1,92 @@
 {
-	"File": "SomaCruz.png",
-	"TransparentColor": {
-		"Red": 64,
-		"Green": 80,
-		"Blue": 64
-	},
-	"Sprites": [
-		{ "Name": "idle-1", "X": 6,   "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-2", "X": 30,  "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-3", "X": 54,  "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-4", "X": 78,  "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-5", "X": 102, "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-6", "X": 128, "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-7", "X": 152, "Y": 46, "Width": 24, "Height": 48 },
-		{ "Name": "idle-8", "X": 176, "Y": 46, "Width": 24, "Height": 48 },
-
-		{ "Name": "walk-1", "X": 1,   "Y": 153, "Width": 32, "Height": 43 }
-	]
+  "File": "SomaCruz.png",
+  "TransparentColor": {
+    "Red": 64,
+    "Green": 80,
+    "Blue": 64
+  },
+  "Sprites": [
+    {
+      "Name": "idle-1",
+      "X": 6,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "ec9d09fc-d36c-418f-b45e-cb47b001b310"
+    },
+    {
+      "Name": "idle-2",
+      "X": 30,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "4dcb297a-53fd-47c2-946f-b6464a306041"
+    },
+    {
+      "Name": "idle-3",
+      "X": 54,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "37dc5a22-892f-43ed-ba5d-863dfed8304c"
+    },
+    {
+      "Name": "idle-4",
+      "X": 78,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "882f4007-daef-4d95-ba18-89ab36d5e71d"
+    },
+    {
+      "Name": "idle-5",
+      "X": 102,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "8518d9be-e661-44c5-87e7-9d12cbdb7233"
+    },
+    {
+      "Name": "idle-6",
+      "X": 128,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "00842169-1784-4e2b-8b77-75c4be39a63d"
+    },
+    {
+      "Name": "idle-7",
+      "X": 152,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "e19d0675-2282-42cc-a86b-7bcad4d04a6f"
+    },
+    {
+      "Name": "idle-8",
+      "X": 176,
+      "Y": 46,
+      "Width": 24,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "9f2bfe64-ec28-4592-b716-d2dc4c9aad73"
+    },
+    {
+      "Name": "walk-1",
+      "X": 1,
+      "Y": 153,
+      "Width": 32,
+      "Height": 43,
+      "FlipHorizontal": false,
+      "Id": "f8ad9797-15fd-4f17-a96c-e0a7f3e303b5"
+    }
+  ],
+  "FileVersion": 1
 }

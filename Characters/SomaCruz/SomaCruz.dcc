@@ -1,39 +1,339 @@
 {
-	"Name": "Soma Cruz",
-	"WalkSpeed": 5,
-	"JumpHeight": 4,
-	"Gravity": 20,
-	"Height": 48,
-	"Width": 24,
-	"Animations": [
-		{
-			"Name": "Idle",
-			"Frames": [
-				{ "Duration": 0.2, "Sprite": "idle-1", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-2", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-3", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-4", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-5", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-6", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-7", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-8", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-7", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-6", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-5", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-4", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-3", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-2", "Source": "./SomaCruz.dcsa" },
-				{ "Duration": 0.2, "Sprite": "idle-1", "Source": "./SomaCruz.dcsa" }
-			]
-		},
-		{
-			"Name": "Walk",
-			"Frames": [
-				{ "Duration": 1, "Sprite": "walk-1", "Source": "./SomaCruz.dcsa" }
-			]
-		}
-	],
-	"WalkAnimation": "Walk",
-	"IdleAnimation": "Idle",
-	"JumpAnimation": "Idle"
+  "Name": "Soma Cruz",
+  "Enabled": true,
+  "WalkSpeed": 5.0,
+  "JumpHeight": 4.0,
+  "Gravity": 20.0,
+  "Height": 48.0,
+  "Width": 24.0,
+  "DefaultWeapon": "",
+  "Animations": [
+    {
+      "Id": "9d67a907-e303-40a2-bd57-96c5937b7932",
+      "Name": "Idle",
+      "Frames": [
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "ec9d09fc-d36c-418f-b45e-cb47b001b310",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "4dcb297a-53fd-47c2-946f-b6464a306041",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "37dc5a22-892f-43ed-ba5d-863dfed8304c",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "882f4007-daef-4d95-ba18-89ab36d5e71d",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "8518d9be-e661-44c5-87e7-9d12cbdb7233",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "00842169-1784-4e2b-8b77-75c4be39a63d",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "e19d0675-2282-42cc-a86b-7bcad4d04a6f",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "9f2bfe64-ec28-4592-b716-d2dc4c9aad73",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "e19d0675-2282-42cc-a86b-7bcad4d04a6f",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "00842169-1784-4e2b-8b77-75c4be39a63d",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "8518d9be-e661-44c5-87e7-9d12cbdb7233",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "882f4007-daef-4d95-ba18-89ab36d5e71d",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "37dc5a22-892f-43ed-ba5d-863dfed8304c",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "4dcb297a-53fd-47c2-946f-b6464a306041",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        },
+        {
+          "Duration": 0.2,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "ec9d09fc-d36c-418f-b45e-cb47b001b310",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        }
+      ]
+    },
+    {
+      "Id": "8833a05e-4b18-49b1-9a35-d54fceafe811",
+      "Name": "Walk",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "./SomaCruz.dcsa",
+          "SpriteId": "f8ad9797-15fd-4f17-a96c-e0a7f3e303b5",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
+        }
+      ]
+    }
+  ],
+  "WalkAnimation": "8833a05e-4b18-49b1-9a35-d54fceafe811",
+  "IdleAnimation": "9d67a907-e303-40a2-bd57-96c5937b7932",
+  "JumpAnimation": "9d67a907-e303-40a2-bd57-96c5937b7932",
+  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
+  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "FileVersion": 1
 }

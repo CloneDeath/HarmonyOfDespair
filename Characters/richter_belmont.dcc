@@ -1,5 +1,6 @@
 {
-	"Name": "Richter Belmont",
-	"WalkSpeed": 3,
-	"JumpHeight": 3
+  "Name": "Richter Belmont",
+  "WalkSpeed": 3,
+  "JumpHeight": 3,
+  "FileVersion": 1
 }
